@@ -1,5 +1,5 @@
-# TheyChat
-A minimal concurrent database server for chatting.
+# TheyChat V2.2
+A minimal concurrent database server for chatting, and support simple Web/HTTP request.
 ## Third party library
 You need to install some libs or tools:
 ```
